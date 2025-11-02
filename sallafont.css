@@ -10,7 +10,7 @@
   font-family: "Ahaleel";
   font-style: normal;
   font-weight: 700;
-  src: local("Ahaleel Bold"), url("Ahaleel-Bold.ttf") format("truetype");
+  src: local("Ahaleel"), url("Ahaleel.ttf") format("truetype");
   font-display: swap;
 }
 
