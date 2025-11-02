@@ -1,22 +1,22 @@
 @font-face {
-  font-family: "Ahaleel";
+  font-family: "ahaleel";
   font-style: normal;
   font-weight: 400;
-  src: local("Ahaleel"), url("Ahaleel.ttf") format("truetype");
+  src: local("ahaleel"), url("ahaleel.ttf") format("truetype");
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Ahaleel";
+  font-family: "ahaleel";
   font-style: normal;
   font-weight: 700;
-  src: local("Ahaleel"), url("Ahaleel.ttf") format("truetype");
+  src: local("ahaleel"), url("ahaleel.ttf") format("truetype");
   font-display: swap;
 }
 
 body {
-  font-family: "Ahaleel", cursive, sans-serif;
-  /* text-align: center; */
+  font-family: "ahaleel", cursive, sans-serif;
+
 }
 
 h1 {
